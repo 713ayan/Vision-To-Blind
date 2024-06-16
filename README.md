@@ -1,1 +1,1 @@
-# Vision-To-Blind---Object-Detection
+# Vision-To-Blind-Object Detection
